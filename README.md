@@ -33,5 +33,5 @@ docker compose up -d
 
 ## Author
 
-**Batu Guldogan** — [@rachelartemis](https://github.com/rachelartemis)  
+**Batu Guldogan** — [@batuguldogan](https://github.com/batuguldogan)  
 Computer Science — Vizja University Warsaw
